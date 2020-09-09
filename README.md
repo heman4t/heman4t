@@ -19,7 +19,7 @@
 <a href="https://www.facebook.com/heman4t/">
  <img align="left" alt="Hemant's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCDJQBcdf3PxMOpLbUTIXJhg">
+<a href="https://www.youtube.com/channel/UCTlfac169MDrl3q6VJFIdNw">
  <img align="left" alt="Hemant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on Flights App.
 - 🌱 I’m currently providing services on Flutter, Mongo, Firebase.
-- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCDJQBcdf3PxMOpLbUTIXJhg).
+- 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCTlfac169MDrl3q6VJFIdNw).
 - 🤔 I’m looking for Flutter Developers.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Telegram - @heman4t](https://t.me/heman4t) ,
