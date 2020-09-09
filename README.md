@@ -1,4 +1,4 @@
-## Hola, I'm [Hemant!](https://heman4t.github.io/) 👋
+## Hola, I'm [Hemant!](https://github.com/heman4t) 👋
 
 
 <a href="https://github.com/heman4t">
