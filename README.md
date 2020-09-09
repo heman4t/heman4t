@@ -30,6 +30,6 @@
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCDJQBcdf3PxMOpLbUTIXJhg).
 - 🤔 I’m looking for Flutter Developers.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @heman4t](https://twitter.com/heman4t) ,
+- 📫 How to reach me: [Telegram - @heman4t](https://t.me/heman4t) ,
 - 😄 Pronouns: hemant
 - ⚡ Fun fact: I enjoy tech and gadgets.
