@@ -8,9 +8,10 @@
 
 **14+ years building software · Rohtak, India · Open to opportunities**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/heman4t)
+
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/heman4t)
 [![Resume](https://img.shields.io/badge/Resume-2_page_PDF-176B5B?style=flat-square)](output/pdf/Hemant_Kumar_Resume.pdf)
+[![Project Portfolio](https://img.shields.io/badge/Portfolio-Projects_%26_timeline-2F81F7?style=flat-square)](PROJECTS.md)
 
 </div>
 
@@ -44,6 +45,8 @@ VS Code and JetBrains tooling that exports project context for LLM workflows.
 [![JetBrains Downloads](https://img.shields.io/jetbrains/plugin/d/28309-combine-with-context?style=flat-square&label=JetBrains%20downloads)](https://plugins.jetbrains.com/plugin/28309-combine-with-context)
 
 Two merged PRs to **[agent-primer](https://github.com/itsarvinddev/agent-primer)** hardened CodeGraph MCP setup and recovery. Earlier contributions include [Flutter samples](https://github.com/flutter/samples/pull/285) and [OpenFace](https://github.com/cmusatyalab/openface/pull/155).
+
+**Want the detailed story?** [Explore projects by organisation, contribution, timeline and evidence →](PROJECTS.md), including [earlier education, deployment and attendance work](PROJECTS.md#earlier-organisations-and-projects).
 
 ## Tools I work with
 
@@ -82,4 +85,4 @@ Two merged PRs to **[agent-primer](https://github.com/itsarvinddev/agent-primer)
 
 ---
 
-**Let's build something useful.** [Telegram](https://t.me/heman4t) · [LinkedIn](https://www.linkedin.com/in/heman4t) · [Mohesu](https://www.mohesu.com)
+**Let's build something useful.** [Telegram](https://t.me/heman4t) · [Mohesu](https://www.mohesu.com)
