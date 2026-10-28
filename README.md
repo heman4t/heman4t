@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=MCP+servers+%C2%B7+Local+RAG+%C2%B7+Agent+evaluations;From+AI+prototypes+to+production+workflows" alt="MCP servers · Local RAG · Agent evaluations. From AI prototypes to production workflows." />
 
-**14+ years building software · Rohtak, India · Open to opportunities**
+**Building software since 2009 · Rohtak, India · Open to opportunities**
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/heman4t)
@@ -15,7 +15,7 @@
 
 </div>
 
-I build AI systems that connect to real tools, work with trusted sources, and fit into everyday business workflows. My work spans **MCP, local RAG, agent evaluations and self-hosted inference**, backed by Python APIs and production infrastructure.
+I build AI systems that connect to real tools, work with trusted sources, and fit into everyday business workflows. My work spans **MCP, local RAG, agent evaluations and self-hosted inference**, backed by Python APIs and production infrastructure. Since starting in **2009**, my work has grown across education systems, Flutter apps, travel platforms, SMS gateways, ERP integrations and managed cloud services.
 
 ## What I'm building
 
@@ -48,6 +48,15 @@ Two merged PRs to **[agent-primer](https://github.com/itsarvinddev/agent-primer)
 
 **Want the detailed story?** [Explore projects by organisation, contribution, timeline and evidence →](PROJECTS.md), including [earlier education, deployment and attendance work](PROJECTS.md#earlier-organisations-and-projects).
 
+## Engineering focus
+
+[![AI and LLMs](https://img.shields.io/badge/AI_%26_LLMs-MCP_%C2%B7_RAG_%C2%B7_Inference-2F81F7?style=flat-square)](PROJECTS.md#haridream)
+[![Mobile](https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square)](PROJECTS.md#developer-tooling-and-reusable-libraries)
+[![Business systems](https://img.shields.io/badge/Business_systems-Frappe_%C2%B7_ERPNext-00897B?style=flat-square)](PROJECTS.md#business-products)
+[![Messaging](https://img.shields.io/badge/Messaging-SMS_%C2%B7_WhatsApp-6F42C1?style=flat-square)](PROJECTS.md#nextpage--nextpage-net)
+[![Infrastructure](https://img.shields.io/badge/Infrastructure-Linux_%C2%B7_Ansible_%C2%B7_Docker-37474F?style=flat-square)](PROJECTS.md#software-xprts)
+[![IoT](https://img.shields.io/badge/IoT-Embedded_%C2%B7_Home_automation-00979D?style=flat-square)](PROJECTS.md)
+
 ## Tools I work with
 
 <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,ts,nextjs,flutter,docker,ansible,linux,cloudflare,githubactions&perline=6" alt="Python, FastAPI, PostgreSQL, Redis, TypeScript, Next.js, Flutter, Docker, Ansible, Linux, Cloudflare and GitHub Actions" />
@@ -57,6 +66,8 @@ Two merged PRs to **[agent-primer](https://github.com/itsarvinddev/agent-primer)
 <details>
 <summary><b>More of my engineering background</b></summary>
 
+- **Business applications:** travel and society portals, WordPress deployment tooling, and attendance synchronisation with Microsoft SQL Server.
+- **Messaging:** SMS gateway routing and billing, plus WhatsApp integrations for business workflows.
 - **Infrastructure:** main author of a 2,100+ commit Ansible codebase for staging and production Linux fleets.
 - **Web platforms:** Cloudflare Workers / Hono / D1 backends and Next.js frontends, with Vitest and Playwright checks.
 - **IoT:** built a retrofit home-automation system with Teensy, XBee, Raspberry Pi and openHAB, plus an Arduino sensor-network framework.

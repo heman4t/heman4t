@@ -2,7 +2,9 @@
 
 **AI and LLM engineering · Business applications · Infrastructure · Mobile and web development**  
 Founder, **[Mohesu Enterprises](https://www.mohesu.com)** · Rohtak, India  
-[GitHub](https://github.com/heman4t) · [LinkedIn](https://www.linkedin.com/in/heman4t) · [Two-page résumé](output/pdf/Hemant_Kumar_Resume.pdf) · [Profile overview](README.md)
+[GitHub](https://github.com/heman4t)· [Two-page résumé](output/pdf/Hemant_Kumar_Resume.pdf) · [Profile overview](README.md)
+
+**Building software since 2009.** My career start year is confirmed by me; the recoverable project evidence below begins later and does not yet describe each engagement from 2009–2011.
 
 From education software and connected devices to business platforms, speech inference and source-grounded AI, this portfolio brings together the work recoverable from my project records, Git history and public contributions.
 
